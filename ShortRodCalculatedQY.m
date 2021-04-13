@@ -92,7 +92,7 @@ plot(Q,EqyS12,'.b');
 hold on
 plot(Q,EecS12,'--b');
 hold off
-xlabel('Calculated Quantum Yield');
+xlabel('Assumed Quantum Yield');
 ylabel('Enhancement');
 legend('EqyS4','EexS4','EqyS9','EexS9','EqyS12','EexS12');
 
